@@ -212,6 +212,7 @@
     opacity: 0.9;
     max-width: 393px;
     line-height: 1.688;
+    white-space: nowrap;
   }
 }
 
@@ -325,7 +326,6 @@
     color: $text-link-blue-active;
   }
 }
-
 
 .search-article {
   position: relative;
